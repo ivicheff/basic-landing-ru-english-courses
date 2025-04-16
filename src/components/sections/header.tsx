@@ -17,6 +17,7 @@ import { useScrollDirection } from "~/hooks/useScrollDirection";
 import { contentData } from "~/lib/content-data";
 import { cn } from "~/lib/utils";
 import CustomLink from "../ui/custom-link";
+import madeby from "~/madeby.json";
 
 const Header = () => {
   const isVisible = useScrollDirection();
@@ -97,6 +98,13 @@ const Header = () => {
                 <Button className="w-full">
                   {contentData.header.cta.text}
                 </Button>
+                <Link
+                  href={madeby.url}
+                  className="mt-5 flex flex-col items-center justify-center gap-4 text-[.6rem] uppercase md:text-[.8rem]"
+                  style={{ fontFamily: "Roboto, sans-serif" }}
+                >
+                  <span>{madeby.madeby}</span>
+                </Link>
               </SheetFooter>
             </SheetContent>
           </Sheet>

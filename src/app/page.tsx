@@ -1,3 +1,4 @@
+import Plate from "~/components/patterns/plate";
 import AboutSection from "~/components/sections/about-section";
 import AchievementsSection from "~/components/sections/achievements-section";
 import AdvantagesSection from "~/components/sections/advantages-section";
@@ -105,6 +106,7 @@ export default function HomePage() {
         {/* <CtaSection /> */}
       </main>
       <Footer />
+      <Plate />
     </>
   );
 }

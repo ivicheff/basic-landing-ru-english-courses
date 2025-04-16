@@ -5,6 +5,7 @@ import Logo from "~/components/ui/logo";
 import { Separator } from "~/components/ui/separator";
 import SocialIcons from "~/components/ui/social-icons";
 import { contentData } from "~/lib/content-data";
+import madeby from "~/madeby.json";
 
 const Footer = () => {
   return (
@@ -15,7 +16,9 @@ const Footer = () => {
       <div className="flex flex-col justify-between gap-8 md:flex-row md:flex-wrap">
         <div className="flex max-w-sm flex-col-reverse gap-8">
           <div className="flex flex-col gap-4">
-            <h3 className="w-fit text-sm">{contentData.footer.contactInfo.title}</h3>
+            <h3 className="w-fit text-sm">
+              {contentData.footer.contactInfo.title}
+            </h3>
             <div className="flex flex-col gap-3">
               <Link
                 href={contentData.links.phone.url}
@@ -38,7 +41,16 @@ const Footer = () => {
                 {contentData.links.address.text}
               </Link>
             </div>
-            <SocialIcons />
+            <div className="flex flex-col gap-2">
+              <SocialIcons />
+              <Link
+                href={madeby.url}
+                className="text-muted-foreground gap-4 text-[.6rem] uppercase md:text-[.8rem]"
+                style={{ fontFamily: "Roboto, sans-serif" }}
+              >
+                <span>{madeby.madeby}</span>
+              </Link>
+            </div>
           </div>
           <div className="flex flex-col gap-2">
             <Logo />
