@@ -27,7 +27,7 @@ const FAQAccordionBlock = ({ questions }: FAQAccordionBlockProps) => {
   }
 
   return (
-    <div className="flex flex-col gap-5 xl:min-w-3xl">
+    <div className="flex w-full flex-col gap-5 lg:min-w-2xl xl:min-w-3xl">
       {faqItems.map((item, index) => (
         <Accordion
           key={`faq-${index}`}
