@@ -31,7 +31,7 @@ export interface MemberCardProps {
 
 const MemberCard = ({ member }: MemberCardProps) => {
   return (
-    <Card className="group overflow-hidden transition-all hover:shadow-md p-0">
+    <Card className="group overflow-hidden p-0 transition-all hover:shadow-md">
       <div className="relative h-80 w-full overflow-hidden">
         <Image
           src={member.image}
@@ -49,11 +49,11 @@ const MemberCard = ({ member }: MemberCardProps) => {
         </p>
       </CardContent>
 
-      <CardFooter className="flex gap-3 p-5 pt-0 mt-auto">
+      <CardFooter className="mt-auto flex gap-3 p-5 pt-0">
         {member.social.linkedin && (
           <Link
             href={member.social.linkedin}
-            className="text-muted-foreground/70 hover:text-primary transition-colors"
+            className="text-muted-foreground hover:text-primary transition-colors"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +63,7 @@ const MemberCard = ({ member }: MemberCardProps) => {
         {member.social.twitter && (
           <Link
             href={member.social.twitter}
-            className="text-muted-foreground/70 hover:text-primary transition-colors"
+            className="text-muted-foreground hover:text-primary transition-colors"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -73,7 +73,7 @@ const MemberCard = ({ member }: MemberCardProps) => {
         {member.social.facebook && (
           <Link
             href={member.social.facebook}
-            className="text-muted-foreground/70 hover:text-primary transition-colors"
+            className="text-muted-foreground hover:text-primary transition-colors"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -83,7 +83,7 @@ const MemberCard = ({ member }: MemberCardProps) => {
         {member.social.instagram && (
           <Link
             href={member.social.instagram}
-            className="text-muted-foreground/70 hover:text-primary transition-colors"
+            className="text-muted-foreground hover:text-primary transition-colors"
             target="_blank"
             rel="noopener noreferrer"
           >

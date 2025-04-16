@@ -13,19 +13,22 @@ interface TestimonialCardProps {
   testimonial: string;
 }
 
-const TestimonialCard = ({ name, jobTitle, image, testimonial }: TestimonialCardProps) => {
+const TestimonialCard = ({
+  name,
+  jobTitle,
+  image,
+  testimonial,
+}: TestimonialCardProps) => {
   return (
     <Card className="flex flex-col gap-3">
       <CardContent>
         <CardDescription>
-          <blockquote className="italic">
-            {`"${testimonial}"`}
-          </blockquote>
+          <blockquote className="italic">{`"${testimonial}"`}</blockquote>
         </CardDescription>
       </CardContent>
       <CardFooter className="flex items-center gap-3">
         <Avatar>
-          <AvatarImage src={image} />
+          <AvatarImage src={image} alt={name} />
           <AvatarFallback>{name.charAt(0)}</AvatarFallback>
         </Avatar>
         <div>
