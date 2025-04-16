@@ -46,7 +46,7 @@ export default function CareerCard({ job, className }: CareerCardProps) {
     >
       <div className="flex items-start justify-between">
         <div>
-          <h4 className="text-lg font-semibold">{job.title}</h4>
+          <h3 className="text-lg font-semibold">{job.title}</h3>
           <div className="text-muted-foreground flex items-center gap-1 text-sm">
             <MapPin className="h-4 w-4" />
             <span>{job.location}</span>

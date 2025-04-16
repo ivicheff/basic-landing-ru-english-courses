@@ -16,14 +16,10 @@ type HeroSectionProps = {
     | "default"
     | "centered"
     | "reversed"
-    | "minimal"
     | "gradient"
     | "tabs"
     | "split"
-    | "cardBased"
     | "collage"
-    | "gallery"
-    | "reviews"
     | "form";
 };
 
@@ -186,11 +182,11 @@ const CenteredHero = () => {
         <p className="text-muted-foreground max-w-2xl">
           {contentData.hero.description}
         </p>
-        <Button variant="cta" size="lg" className="shadow-lg">
-          <Link href={contentData.hero.cta.url}>
+        <Link href={contentData.hero.cta.url}>
+          <Button variant="cta" size="lg" className="shadow-lg">
             {contentData.hero.cta.text}
-          </Link>
-        </Button>
+          </Button>
+        </Link>
       </div>
       <div className="flex flex-col-reverse items-center gap-2 pt-2 pb-2 md:flex-row md:pb-4">
         <AvatarStack />
@@ -273,11 +269,11 @@ const ReversedHero = () => {
         </div>
         <div className="flex items-center gap-5">
           <div className="flex flex-col gap-5">
-            <Button variant="cta" size="lg" className="shadow-lg">
-              <Link href={contentData.hero.cta.url}>
+            <Link href={contentData.hero.cta.url}>
+              <Button variant="cta" size="lg" className="shadow-lg">
                 {contentData.hero.cta.text}
-              </Link>
-            </Button>
+              </Button>
+            </Link>
             <div className="flex flex-col gap-1 md:flex-row md:items-center md:gap-4">
               <AvatarStack />
               <p className="max-w-xs leading-none">
@@ -307,14 +303,14 @@ const GradientHero = () => {
             <h1>{extendedHeroData.gradientTitle}</h1>
             <p>{extendedHeroData.gradientDescription}</p>
             <div className="flex flex-col gap-4 sm:flex-row">
-              <Button
-                size="lg"
-                className="bg-white text-indigo-600 hover:bg-white/90"
-              >
-                <Link href={contentData.hero.cta.url}>
+              <Link href={contentData.hero.cta.url}>
+                <Button
+                  size="lg"
+                  className="bg-white text-indigo-600 hover:bg-white/90"
+                >
                   {contentData.hero.cta.text}
-                </Link>
-              </Button>
+                </Button>
+              </Link>
               <Button
                 size="lg"
                 variant="outline"
@@ -353,11 +349,11 @@ const TabsHero = () => {
             {extendedHeroData.tabsDescription}
           </p>
           <div className="flex flex-col gap-4 sm:flex-row">
-            <Button size="lg" variant="cta">
-              <Link href={contentData.hero.cta.url}>
+            <Link href={contentData.hero.cta.url}>
+              <Button size="lg" variant="cta">
                 {contentData.hero.cta.text}
-              </Link>
-            </Button>
+              </Button>
+            </Link>
           </div>
         </div>
         <div className="flex-1">
@@ -417,16 +413,16 @@ const SplitHero = () => {
           ))}
         </div>
         <div className="mt-4 flex flex-col flex-wrap gap-3 md:flex-row">
-          <Button size="lg" variant="cta">
-            <Link href={contentData.hero.cta.url}>
+          <Link href={contentData.hero.cta.url}>
+            <Button size="lg" variant="cta">
               {contentData.hero.cta.text}
-            </Link>
-          </Button>
-          <Button size="lg" variant="outline">
-            <Link href={extendedHeroData.secondaryCta.url}>
+            </Button>
+          </Link>
+          <Link href={extendedHeroData.secondaryCta.url}>
+            <Button size="lg" variant="outline">
               {extendedHeroData.secondaryCta.text}
-            </Link>
-          </Button>
+            </Button>
+          </Link>
         </div>
       </div>
       <div className="relative flex-1">
@@ -463,16 +459,16 @@ const CollageHero = () => {
             {extendedHeroData.collageDescription}
           </p>
           <div className="flex flex-col gap-4 pt-8 pb-4 sm:flex-row">
-            <Button size="lg" variant="cta">
-              <Link href={contentData.hero.cta.url}>
+            <Link href={contentData.hero.cta.url}>
+              <Button size="lg" variant="cta">
                 {contentData.hero.cta.text}
-              </Link>
-            </Button>
-            <Button size="lg" variant="outline">
-              <Link href={extendedHeroData.secondaryCta.url}>
+              </Button>
+            </Link>
+            <Link href={extendedHeroData.secondaryCta.url}>
+              <Button size="lg" variant="outline">
                 {extendedHeroData.secondaryCta.text}
-              </Link>
-            </Button>
+              </Button>
+            </Link>
           </div>
           <div className="flex flex-col gap-1 lg:flex-row lg:items-center lg:gap-4">
             <AvatarStack />
