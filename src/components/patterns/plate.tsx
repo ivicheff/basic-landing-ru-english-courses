@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 import madeby from "~/madeby.json";
 const Plate = () => {
   return (
@@ -23,7 +23,7 @@ const Plate = () => {
             height={60}
             className="rounded-full text-center outline outline-2 outline-white"
           />
-          <span>{madeby.madeby}</span>
+          <span>{madeby.phrase}</span>
         </Link>
       </div>
     </>

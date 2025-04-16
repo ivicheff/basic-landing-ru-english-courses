@@ -16,8 +16,8 @@ import SocialIcons from "~/components/ui/social-icons";
 import { useScrollDirection } from "~/hooks/useScrollDirection";
 import { contentData } from "~/lib/content-data";
 import { cn } from "~/lib/utils";
-import CustomLink from "../ui/custom-link";
 import madeby from "~/madeby.json";
+import CustomLink from "../ui/custom-link";
 
 const Header = () => {
   const isVisible = useScrollDirection();
@@ -29,7 +29,7 @@ const Header = () => {
         !isVisible && "-translate-y-full",
       )}
     >
-      <div className="mx-auto flex max-w-[102rem] items-center justify-between px-4 py-3 lg:px-8 lg:py-5">
+      <div className="mx-auto ml-4 flex max-w-[102rem] items-center justify-between px-0 py-0 md:ml-0 lg:px-8 lg:py-5">
         <div className="">
           <Logo />
         </div>
@@ -61,8 +61,8 @@ const Header = () => {
         </div>
         <div className="xl:hidden">
           <Sheet>
-            <SheetTrigger asChild>
-              <Button variant="ghost" size="icon" className="">
+            <SheetTrigger asChild className="">
+              <Button variant="ghost" size="icon" className="h-16 w-16">
                 <Menu className="size-7" />
               </Button>
             </SheetTrigger>
@@ -103,7 +103,7 @@ const Header = () => {
                   className="mt-5 flex flex-col items-center justify-center gap-4 text-[.6rem] uppercase md:text-[.8rem]"
                   style={{ fontFamily: "Roboto, sans-serif" }}
                 >
-                  <span>{madeby.madeby}</span>
+                  <span>{madeby.phrase}</span>
                 </Link>
               </SheetFooter>
             </SheetContent>

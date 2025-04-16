@@ -48,7 +48,7 @@ const Footer = () => {
                 className="text-muted-foreground gap-4 text-[.6rem] uppercase md:text-[.8rem]"
                 style={{ fontFamily: "Roboto, sans-serif" }}
               >
-                <span>{madeby.madeby}</span>
+                <span>{madeby.phrase}</span>
               </Link>
             </div>
           </div>
