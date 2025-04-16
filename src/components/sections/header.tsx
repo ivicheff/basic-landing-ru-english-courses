@@ -95,7 +95,7 @@ const Header = () => {
                 <SocialIcons />
               </div>
               <SheetFooter>
-                <Button className="w-full">
+                <Button className="w-full" aria-label="Открыть меню">
                   {contentData.header.cta.text}
                 </Button>
                 <Link
