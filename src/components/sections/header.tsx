@@ -62,7 +62,12 @@ const Header = () => {
         <div className="xl:hidden">
           <Sheet>
             <SheetTrigger asChild className="">
-              <Button variant="ghost" size="icon" className="h-16 w-16">
+              <Button
+                variant="ghost"
+                size="icon"
+                className="h-16 w-16"
+                aria-label="Открыть меню"
+              >
                 <Menu className="size-7" />
               </Button>
             </SheetTrigger>
@@ -95,7 +100,7 @@ const Header = () => {
                 <SocialIcons />
               </div>
               <SheetFooter>
-                <Button className="w-full" aria-label="Открыть меню">
+                <Button className="w-full">
                   {contentData.header.cta.text}
                 </Button>
                 <Link
