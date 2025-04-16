@@ -1,0 +1,530 @@
+{
+  "links": {
+    "logo": {
+      "src": "/images/logo/puzzle.png",
+      "alt": "Строительная компания",
+      "link": "/",
+      "text": "Строительная компания"
+    },
+    "phone": {
+      "text": "+7 (999) 123-4567",
+      "url": "tel:+79991234567"
+    },
+    "email": {
+      "text": "info@webapphorizon.com",
+      "url": "mailto:info@webapphorizon.com"
+    },
+    "address": {
+      "text": "123317, Москва, Пресненская наб., 12, ММДЦ «Москва-Сити»",
+      "mapUrl": "https://maps.google.com/?q=Пресненская+набережная+12+Москва"
+    },
+    "socials": {
+      "twitterUrl": "https://twitter.com/webapphorizon",
+      "facebookUrl": "https://www.facebook.com/webapphorizon",
+      "vkUrl": "https://vk.com/webapphorizon",
+      "yandexMapsUrl": "https://yandex.ru/maps/?ll=37.618423%2C55.755826&z=17",
+      "googleMapsUrl": "https://maps.google.com/?q=Пресненская+набережная+12+Москва",
+      "instagramUrl": "https://www.instagram.com/webapphorizon",
+      "linkedinUrl": "https://www.linkedin.com/company/webapphorizon",
+      "telegramUrl": "https://t.me/webapphorizon",
+      "whatsappUrl": "https://wa.me/webapphorizon",
+      "youtubeUrl": "https://www.youtube.com/webapphorizon",
+      "tiktokUrl": "https://www.tiktok.com/webapphorizon",
+      "pinterestUrl": "https://www.pinterest.com/webapphorizon",
+      "snapchatUrl": "https://www.snapchat.com/webapphorizon",
+      "vimeoUrl": "https://www.vimeo.com/webapphorizon",
+      "soundcloudUrl": "https://www.soundcloud.com/webapphorizon",
+      "spotifyUrl": "https://www.spotify.com/webapphorizon",
+      "appleMusicUrl": "https://www.applemusic.com/webapphorizon",
+      "amazonMusicUrl": "https://www.amazonmusic.com/webapphorizon",
+      "deezerUrl": "https://www.deezer.com/webapphorizon",
+      "bandcampUrl": "https://www.bandcamp.com/webapphorizon",
+      "mixcloudUrl": "https://www.mixcloud.com/webapphorizon",
+      "soundcloudUrl": "https://www.soundcloud.com/webapphorizon",
+      "spotifyUrl": "https://www.spotify.com/webapphorizon",
+      "appleMusicUrl": "https://www.applemusic.com/webapphorizon",
+      "amazonMusicUrl": "https://www.amazonmusic.com/webapphorizon",
+      "deezerUrl": "https://www.deezer.com/webapphorizon"
+    }
+  },
+  "header": {
+    "navigation": [
+      { "text": "Главная", "url": "/" },
+      { "text": "О нас", "url": "#about" },
+      { "text": "Услуги", "url": "#services" },
+      { "text": "Отзывы", "url": "#testimonials" },
+      { "text": "FAQ", "url": "#faq" },
+      { "text": "Контакты", "url": "#contacts" }
+    ],
+    "cta": { "text": "Заказать строительство", "url": "/#contacts" }
+  },
+  "hero": {
+    "title": "Строительство домов и зданий под ключ",
+    "description": "Мы строим надежные дома и коммерческие здания по вашим проектам. Качественное строительство от фундамента до крыши с использованием современных технологий – ваш ключ к комфортной жизни и успешному бизнесу.",
+    "cta": { "text": "Заказать проект сейчас", "url": "/#contacts" },
+    "testimonialText": "Более 40,000+ клиентов доверили нам строительство своих домов и объектов...",
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDnR96DrTv7mOfTZSWq1sNtGuAReiVwzLynP2c",
+      "alt": "Строительство домов"
+    },
+    "avatars": {
+      "length": 7,
+      "images": [
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD53KpnOL0jtKAdR4scw9mL75HN6YXyoUO8JbF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5ibtJUL0jtKAdR4scw9mL75HN6YXyoUO8JbF"
+      ],
+      "fallbacks": ["АИ", "МС", "ЕП", "ДК", "ОЛ", "ВН", "РМ"],
+      "alts": [
+        "Анна Иванова",
+        "Михаил Смирнов",
+        "Елена Петрова",
+        "Дмитрий Козлов",
+        "Ольга Лебедева",
+        "Виктор Николаев",
+        "Роман Морозов"
+      ]
+    },
+    "platforms": [
+      {
+        "rating": 4.9,
+        "link": "https://example.com/reviews",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5agJdNbL0jtKAdR4scw9mL75HN6YXyoUO8Jb",
+        "title": "Facebook",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.8,
+        "link": "https://example.com/reviews",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD9g48c9hQ8blvnW4XY2ugMLfZ05UxcEJsPme7",
+        "title": "Google",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.7,
+        "link": "https://example.com/reviews",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTebFvqktvWdkOg1qNn3L4op5zuZKVH7s06QX",
+        "title": "Yandex",
+        "linkText": "Смотреть все отзывы"
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Почему выбирают нашу строительную компанию",
+    "description": "Мы предлагаем качественное строительство домов и зданий с гарантией долговечности и надежности.",
+    "cards": [
+      {
+        "title": "Скорость строительства",
+        "description": "Быстрое возведение объектов без потери качества благодаря отлаженным процессам.",
+        "icon": "Zap",
+        "iconColor": "blue-400"
+      },
+      {
+        "title": "Проектная точность",
+        "description": "Точное воплощение ваших идей в жизнь с учетом всех строительных норм.",
+        "icon": "BarChart",
+        "iconColor": "orange-400"
+      },
+      {
+        "title": "Круглосуточная консультация",
+        "description": "Наши специалисты готовы ответить на вопросы о строительстве в любое время.",
+        "icon": "HeadphonesIcon",
+        "iconColor": "rose-400"
+      },
+      {
+        "title": "Надежность материалов",
+        "description": "Используем только сертифицированные материалы для долговечных построек.",
+        "icon": "Shield",
+        "iconColor": "green-400"
+      }
+    ]
+  },
+  "about": {
+    "title": "О нашей строительной компании",
+    "description": [
+      "Мы – профессиональная строительная компания, специализирующаяся на возведении домов, коттеджей и коммерческих зданий. Наши проекты – это сочетание инноваций, качества и надежности.",
+      "С начала работы мы реализовали сотни строительных объектов, помогая клиентам создавать дома мечты и эффективные бизнес-пространства. Наш опыт в строительстве – ваша гарантия успеха."
+    ],
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "Строительство зданий"
+    },
+    "statistics": [
+      { "title": "100+", "description": "Построенных объектов" },
+      { "title": "98%", "description": "Довольных клиентов" },
+      { "title": "12+", "description": "Лет на рынке" },
+      { "title": "50+", "description": "Профессионалов" }
+    ],
+    "quiz": {
+      "title": "Узнайте, какой дом вам подходит",
+      "description": "Пройдите тест, чтобы подобрать идеальный проект дома или здания для ваших нужд",
+      "startButtonText": "Начать тест",
+      "nextButtonText": "Далее",
+      "prevButtonText": "Назад",
+      "resultButtonText": "Получить результат",
+      "resetButtonText": "Пройти еще раз",
+      "questions": [
+        {
+          "id": "building_size",
+          "text": "Какой размер дома вам нужен?",
+          "options": [
+            { "id": "small", "text": "Небольшой дом (до 100 м²)" },
+            { "id": "medium", "text": "Средний дом (100-200 м²)" },
+            { "id": "large", "text": "Большой дом (более 200 м²)" }
+          ]
+        },
+        {
+          "id": "main_goal",
+          "text": "Какая ваша главная цель?",
+          "options": [
+            { "id": "family", "text": "Комфортный дом для семьи" },
+            { "id": "investment", "text": "Инвестиции в недвижимость" },
+            { "id": "business", "text": "Коммерческое здание" },
+            { "id": "vacation", "text": "Загородный дом для отдыха" }
+          ]
+        },
+        {
+          "id": "budget",
+          "text": "Какой бюджет на строительство?",
+          "options": [
+            { "id": "small", "text": "До 3 млн. руб." },
+            { "id": "medium", "text": "3-7 млн. руб." },
+            { "id": "large", "text": "Более 7 млн. руб." }
+          ]
+        },
+        {
+          "id": "timeline",
+          "text": "Какие сроки строительства?",
+          "options": [
+            { "id": "urgent", "text": "Срочно (до 3 месяцев)" },
+            { "id": "normal", "text": "Средний срок (3-6 месяцев)" },
+            { "id": "longterm", "text": "Долгосрочный (более 6 месяцев)" }
+          ]
+        }
+      ],
+      "results": {
+        "default": {
+          "title": "Спасибо за ответы!",
+          "description": "Мы подготовим для вас проект дома или здания. Оставьте контакты, чтобы обсудить детали.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+          "recommendedService": "Индивидуальный проект",
+          "contactButtonText": "Связаться с нами"
+        },
+        "consulting": {
+          "title": "Вам подойдет консультация по строительству",
+          "description": "Наши эксперты помогут выбрать проект и рассчитать стоимость строительства дома.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+          "recommendedService": "Консультация",
+          "contactButtonText": "Узнать больше"
+        },
+        "marketing": {
+          "title": "Вам подойдет коммерческое строительство",
+          "description": "Мы построим здание для вашего бизнеса с учетом всех требований.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+          "recommendedService": "Коммерческое строительство",
+          "contactButtonText": "Узнать больше"
+        },
+        "development": {
+          "title": "Вам подойдет строительство дома под ключ",
+          "description": "Полный цикл строительства – от фундамента до отделки – для вашего комфорта.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+          "recommendedService": "Дом под ключ",
+          "contactButtonText": "Узнать больше"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "title": "Стоимость строительства",
+    "description": "Доступные цены на строительство домов и зданий под любые задачи.",
+    "calculator": {
+      "title": "Калькулятор стоимости строительства",
+      "description": "Рассчитайте примерную цену строительства дома или здания онлайн",
+      "buttonText": "Рассчитать",
+      "resultTitle": "Примерная стоимость:",
+      "disclaimer": "Точная цена строительства зависит от проекта и будет уточнена после консультации",
+      "contactUs": "Свяжитесь с нами для точного расчета стоимости",
+      "fields": {
+        "service": {
+          "label": "Тип строительства",
+          "placeholder": "Выберите тип",
+          "options": [
+            { "value": "consulting", "label": "Консультация", "basePrice": 150000 },
+            { "value": "marketing", "label": "Коммерческое здание", "basePrice": 1000000 },
+            { "value": "development", "label": "Дом под ключ", "basePrice": 2000000 }
+          ]
+        },
+        "duration": {
+          "label": "Срок строительства",
+          "placeholder": "Выберите срок",
+          "options": [
+            { "value": "1", "label": "1 месяц", "multiplier": 1 },
+            { "value": "3", "label": "3 месяца", "multiplier": 2.7 },
+            { "value": "6", "label": "6 месяцев", "multiplier": 5 },
+            { "value": "12", "label": "12 месяцев", "multiplier": 9 }
+          ]
+        },
+        "complexity": {
+          "label": "Сложность проекта",
+          "placeholder": "Выберите сложность",
+          "options": [
+            { "value": "simple", "label": "Простой", "multiplier": 0.8 },
+            { "value": "medium", "label": "Средний", "multiplier": 1 },
+            { "value": "complex", "label": "Сложный", "multiplier": 1.5 }
+          ]
+        },
+        "urgency": {
+          "label": "Срочность",
+          "placeholder": "Выберите срочность",
+          "options": [
+            { "value": "normal", "label": "Стандартная", "multiplier": 1 },
+            { "value": "high", "label": "Высокая", "multiplier": 1.3 },
+            { "value": "urgent", "label": "Срочная", "multiplier": 1.5 }
+          ]
+        }
+      }
+    },
+    "cards": [
+      {
+        "title": "Консультация по строительству",
+        "description": "Профессиональная помощь в выборе проекта дома или здания.",
+        "price": "От 150 000 ₽",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+        "buttonText": "Заказать"
+      },
+      {
+        "title": "Коммерческое строительство",
+        "description": "Возведение зданий для бизнеса с учетом всех норм и стандартов.",
+        "price": "От 1 000 000 ₽",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "buttonText": "Заказать"
+      },
+      {
+        "title": "Дом под ключ",
+        "description": "Полный цикл строительства дома – от проекта до заселения.",
+        "price": "От 2 000 000 ₽",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+        "buttonText": "Заказать"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Отзывы о нашей строительной компании",
+    "description": "Узнайте, что говорят клиенты о качестве наших строительных услуг.",
+    "loading": "Загрузка отзывов...",
+    "error": "Ошибка при загрузке отзывов. Пожалуйста, попробуйте позже.",
+    "items": [
+      {
+        "name": "Иван Петров",
+        "jobTitle": "Владелец дома",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "testimonial": "Построили дом быстро и качественно. Теперь живем в комфорте!"
+      },
+      {
+        "name": "Анна Иванова",
+        "jobTitle": "Директор магазина",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "testimonial": "Здание для бизнеса построили в срок. Все идеально!"
+      },
+      {
+        "name": "Мария Козлова",
+        "jobTitle": "Менеджер проекта",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "testimonial": "Команда учла все наши пожелания при строительстве офиса."
+      },
+      {
+        "name": "Дмитрий Николаев",
+        "jobTitle": "Инвестор",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "testimonial": "Надежная компания для инвестиций в строительство."
+      },
+      {
+        "name": "Ольга Лебедева",
+        "jobTitle": "Хозяйка коттеджа",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "testimonial": "Мой коттедж – мечта, воплощенная в реальность!"
+      }
+    ]
+  },
+  "steps": {
+    "title": "Этапы строительства",
+    "description": "Мы строим дома и здания поэтапно, гарантируя качество на каждом шаге.",
+    "items": [
+      {
+        "title": "Проектирование",
+        "description": [
+          "Разрабатываем проект дома или здания с учетом ваших пожеланий и норм строительства.",
+          "Составляем смету и план работ для прозрачности процесса."
+        ],
+        "number": 1,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeGPw4K8uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+        "reverse": false
+      },
+      {
+        "title": "Закладка фундамента",
+        "description": [
+          "Возводим прочный фундамент – основу вашего будущего дома или здания.",
+          "Используем надежные материалы и современные технологии."
+        ],
+        "number": 2,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD0ctbjqpGogSTdPjE52zpHbq3mCFiR8wUL9sG",
+        "reverse": true
+      },
+      {
+        "title": "Возведение стен и крыши",
+        "description": [
+          "Строим стены и кровлю с учетом энергоэффективности и долговечности.",
+          "Контролируем каждый этап для идеального результата."
+        ],
+        "number": 3,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+        "reverse": false
+      },
+      {
+        "title": "Отделка и сдача",
+        "description": [
+          "Проводим внутреннюю и внешнюю отделку под ключ.",
+          "Сдаем объект готовым к использованию с гарантией качества."
+        ],
+        "number": 4,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+        "reverse": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Частые вопросы о строительстве",
+    "description": "Ответы на популярные вопросы о строительстве домов и зданий.",
+    "questions": [
+      {
+        "question": "Сколько времени занимает строительство дома?",
+        "answer": "Сроки зависят от проекта, обычно от 3 до 12 месяцев."
+      },
+      {
+        "question": "Можно ли заказать индивидуальный проект?",
+        "answer": "Да, мы создаем уникальные проекты домов и зданий под ваши нужды."
+      },
+      {
+        "question": "С какими материалами вы работаете?",
+        "answer": "Мы используем кирпич, бетон, дерево и другие сертифицированные материалы."
+      },
+      {
+        "question": "Как вы гарантируете качество?",
+        "answer": "Контроль на каждом этапе и соблюдение ГОСТов – наша гарантия."
+      },
+      {
+        "question": "Что делать после строительства?",
+        "answer": "Мы сдаем объект под ключ и консультируем по эксплуатации."
+      }
+    ],
+    "callToAction": {
+      "text": "Остались вопросы? Звоните нам для консультации по строительству!",
+      "button": { "text": "Связаться с нами", "url": "/#contacts" }
+    }
+  },
+  "contacts": {
+    "title": "Свяжитесь с нами для строительства",
+    "description": "Хотите построить дом или здание? Закажите бесплатную консультацию!",
+    "form": {
+      "title": "Заказать консультацию",
+      "description": "Оставьте заявку, и мы поможем вам начать строительство.",
+      "fields": {
+        "name": {
+          "label": "Имя",
+          "placeholder": "Ваше имя",
+          "error": "Имя должно содержать минимум 2 символа"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Ваш email",
+          "error": "Пожалуйста, введите корректный email"
+        },
+        "message": {
+          "label": "Сообщение",
+          "placeholder": "Ваше сообщение",
+          "error": "Сообщение должно содержать минимум 10 символов"
+        }
+      },
+      "button": {
+        "default": "Отправить заявку",
+        "loading": "Отправка..."
+      },
+      "success": "Заявка успешно отправлена!",
+      "error": "Ошибка при отправке заявки",
+      "formcarryError": "Ошибка сервера при отправке заявки",
+      "missingApiKey": "API ключ для отправки заявки не настроен"
+    },
+    "contactInfo": {
+      "title": "Контакты строительной компании",
+      "items": [
+        {
+          "type": "phone",
+          "label": "Телефон"
+        },
+        {
+          "type": "email",
+          "label": "Почта"
+        },
+        {
+          "type": "address",
+          "label": "Адрес"
+        }
+      ]
+    },
+    "mapLocation": {
+      "coordinates": [55.7495, 37.5396],
+      "zoom": 15
+    }
+  },
+  "footer": {
+    "description": "Мы строим дома и здания для вашего комфорта и успеха",
+    "quickLinks": {
+      "title": "Быстрые ссылки",
+      "items": [
+        { "text": "Главная", "url": "/" },
+        { "text": "О нас", "url": "/about" },
+        { "text": "Услуги", "url": "/services" },
+        { "text": "Отзывы", "url": "/testimonials" },
+        { "text": "Цены", "url": "/pricing" },
+        { "text": "Этапы", "url": "/steps" }
+      ]
+    },
+    "services": {
+      "title": "Услуги строительства",
+      "items": [
+        { "text": "Консультации", "url": "/#services" },
+        { "text": "Проектирование", "url": "/#services" },
+        { "text": "Строительство", "url": "/#services" },
+        { "text": "Отделка", "url": "/#services" }
+      ]
+    },
+    "contactInfo": {
+      "title": "Контакты"
+    },
+    "newsletter": {
+      "title": "Подписка на новости",
+      "description": "Получайте новости о строительстве и наши лучшие предложения",
+      "email": {
+        "label": "Email",
+        "placeholder": "Ваш email",
+        "error": "Пожалуйста, введите корректный email"
+      },
+      "button": "Подписаться",
+      "loading": "Отправка...",
+      "success": "Вы успешно подписались!",
+      "error": "Ошибка при подписке",
+      "formcarryError": "Ошибка сервера при подписке",
+      "missingApiKey": "API ключ для подписки не настроен"
+    },
+    "copyright": "© 2025 Все права защищены",
+    "legalLinks": [
+      { "text": "Условия использования", "url": "/terms-of-service" },
+      { "text": "Политика конфиденциальности", "url": "/privacy-policy" },
+      { "text": "Политика использования файлов cookie", "url": "/cookie-policy" }
+    ]
+  }
+}

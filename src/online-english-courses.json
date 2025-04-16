@@ -1,0 +1,1456 @@
+{
+  "links": {
+    "logo": {
+      "src": "/images/logo/puzzle.png",
+      "alt": "English Online",
+      "link": "/",
+      "text": "English Online"
+    },
+    "phone": {
+      "text": "+7 (999) 987-6543",
+      "url": "tel:+79999876543"
+    },
+    "email": {
+      "text": "contact@englishonline.ru",
+      "url": "mailto:contact@englishonline.ru"
+    },
+    "address": {
+      "text": "123317, Москва, ул. Лесная, 7, БЦ «Белая площадь»",
+      "mapUrl": "https://maps.google.com/?q=Лесная+улица+7+Москва"
+    },
+    "socials": {
+      "twitterUrl": "https://twitter.com/englishonline_ru",
+      "facebookUrl": "https://www.facebook.com/englishonline_ru",
+      "vkUrl": "https://vk.com/englishonline_ru",
+      "yandexMapsUrl": "https://yandex.ru/maps/?ll=37.618423%2C55.755826&z=17",
+      "googleMapsUrl": "https://maps.google.com/?q=Лесная+улица+7+Москва",
+      "instagramUrl": "https://www.instagram.com/englishonline_ru",
+      "linkedinUrl": "https://www.linkedin.com/company/englishonline_ru",
+      "telegramUrl": "https://t.me/englishonline_ru",
+      "whatsappUrl": "https://wa.me/englishonline_ru",
+      "youtubeUrl": "https://www.youtube.com/englishonline_ru",
+      "tiktokUrl": "https://www.tiktok.com/englishonline_ru",
+      "pinterestUrl": "https://www.pinterest.com/englishonline_ru",
+      "snapchatUrl": "https://www.snapchat.com/englishonline_ru",
+      "vimeoUrl": "https://www.vimeo.com/englishonline_ru",
+      "soundcloudUrl": "https://www.soundcloud.com/englishonline_ru",
+      "spotifyUrl": "https://www.spotify.com/englishonline_ru",
+      "appleMusicUrl": "https://www.applemusic.com/englishonline_ru",
+      "amazonMusicUrl": "https://www.amazonmusic.com/englishonline_ru",
+      "deezerUrl": "https://www.deezer.com/englishonline_ru",
+      "bandcampUrl": "https://www.bandcamp.com/englishonline_ru",
+      "mixcloudUrl": "https://www.mixcloud.com/englishonline_ru"
+    }
+  },
+  "header": {
+    "navigation": [
+      { "text": "Главная", "url": "/" },
+      { "text": "О нас", "url": "#about" },
+      { "text": "Курсы", "url": "#courses" },
+      { "text": "Отзывы", "url": "#testimonials" },
+      { "text": "FAQ", "url": "#faq" },
+      { "text": "Контакты", "url": "#contacts" }
+    ],
+    "cta": { "text": "Записаться", "url": "/#contacts" }
+  },
+  "hero": {
+    "title": "Освой английский с индивидуальным подходом",
+    "description": "Мы предлагаем онлайн и офлайн курсы английского языка с гибким графиком, опытными педагогами и бесплатными пробными занятиями. Начните свой путь к свободному владению языком уже сегодня!",
+    "cta": { "text": "Записаться на пробное занятие", "url": "/#contacts" },
+    "secondaryCta": { "text": "Узнать больше", "url": "/#about" },
+    "testimonialText": "Более 5,000+ учеников уже улучшили свой английский с нами...",
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDnR96DrTv7mOfTZSWq1sNtGuAReiVwzLynP2c",
+      "alt": "Онлайн курсы английского"
+    },
+    "gradientBadge": "Гибкий график",
+    "gradientTitle": "Учите английский в удобное время",
+    "gradientDescription": "Мы подстраиваемся под ваш ритм жизни, предлагая занятия онлайн и офлайн в удобное для вас время. Наши сертифицированные преподаватели помогут достичь ваших целей.",
+    "gradientImage": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+      "alt": "Изучение английского"
+    },
+    "tabsBadge": "Новинка 2025",
+    "tabsTitle": "Выберите свой курс",
+    "tabsDescription": "Мы предлагаем курсы для всех уровней: от начинающих до продвинутых. Изучайте английский для работы, путешествий или сдачи экзаменов.",
+    "tabs": [
+      {
+        "id": "beginner",
+        "title": "Для начинающих",
+        "description": "Освойте базовую лексику и грамматику, чтобы уверенно общаться в повседневных ситуациях.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeYb7A08uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+          "alt": "Курс для начинающих"
+        }
+      },
+      {
+        "id": "intermediate",
+        "title": "Для продолжающих",
+        "description": "Углубите знания, улучшите разговорные навыки и подготовьтесь к международным экзаменам.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDan7xkAOFka019tyi7IlvN6rSVo3xfwmADE2T",
+          "alt": "Курс для продолжающих"
+        }
+      },
+      {
+        "id": "advanced",
+        "title": "Для продвинутых",
+        "description": "Совершенствуйте деловой английский и готовьтесь к профессиональным вызовам.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7zEPZCbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "alt": "Курс для продвинутых"
+        }
+      }
+    ],
+    "splitBadge": "Онлайн и офлайн",
+    "splitTitle": "Учитесь так, как вам удобно",
+    "splitDescription": "Выбирайте формат обучения: онлайн через Zoom или офлайн в наших уютных классах в Москве. Мы создаем комфортные условия для эффективного обучения.",
+    "splitImage": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "Форматы обучения"
+    },
+    "features": [
+      "Индивидуальный подход",
+      "Гибкий график занятий",
+      "Опытные преподаватели",
+      "Бесплатное пробное занятие"
+    ],
+    "cardBasedBadge": "Курсы для всех",
+    "cardBasedTitle": "Выберите идеальный курс",
+    "cardBasedDescription": "Мы предлагаем курсы для детей, взрослых и корпоративных клиентов. Каждый курс адаптируется под ваши цели и уровень подготовки.",
+    "cards": [
+      {
+        "icon": "ArrowRight",
+        "title": "Для детей",
+        "description": "Интерактивные занятия для детей от 6 лет, которые делают изучение английского увлекательным.",
+        "linkText": "Узнать больше",
+        "linkUrl": "/#courses"
+      },
+      {
+        "icon": "Heart",
+        "title": "Для взрослых",
+        "description": "Курсы для взрослых с акцентом на практическое применение языка в жизни и работе.",
+        "linkText": "Узнать больше",
+        "linkUrl": "/#courses"
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Корпоративный",
+        "description": "Программы для компаний, чтобы повысить уровень английского сотрудников.",
+        "linkText": "Узнать больше",
+        "linkUrl": "/#courses"
+      }
+    ],
+    "collageTitle": "Визуализируйте свой прогресс",
+    "collageDescription": "Наши ученики делятся своими успехами: от первых слов до уверенного общения на английском.",
+    "collageImages": [
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "alt": "Урок английского"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "alt": "Групповое занятие"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "alt": "Ученики"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "alt": "Сертификат"
+      }
+    ],
+    "galleryTitle": "Наши достижения",
+    "galleryDescription": "Фотографии с наших занятий, мероприятий и сертификаты, подтверждающие квалификацию преподавателей.",
+    "galleryImages": [
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "alt": "Занятие 1"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "alt": "Занятие 2"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "alt": "Занятие 3"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "alt": "Сертификат 1"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "alt": "Сертификат 2"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "alt": "Мероприятие"
+      }
+    ],
+    "reviewsTitle": "Отзывы наших учеников",
+    "reviewsDescription": "Читайте, что говорят родители и ученики о наших курсах и их результатах.",
+    "reviewsTrust": "Более 500 довольных учеников и родителей рекомендуют наши курсы.",
+    "reviews": [
+      {
+        "id": "1",
+        "author": "Елена Кузнецова",
+        "platform": "Google Reviews",
+        "rating": 5.0,
+        "text": "Мой сын с удовольствием ходит на занятия. Преподаватели замечательные, а результаты видны уже через месяц!"
+      },
+      {
+        "id": "2",
+        "author": "Алексей Смирнов",
+        "platform": "Trustpilot",
+        "rating": 4.8,
+        "text": "Благодаря курсам я подготовился к IELTS за 3 месяца. Очень рекомендую!"
+      },
+      {
+        "id": "3",
+        "author": "Марина Иванова",
+        "platform": "Facebook",
+        "rating": 4.7,
+        "text": "Пробное занятие было бесплатным, и мы сразу поняли, что это наш формат. Спасибо за гибкость!"
+      },
+      {
+        "id": "4",
+        "author": "Ольга Петрова",
+        "platform": "Yandex",
+        "rating": 5.0,
+        "text": "Дочь стала увереннее говорить на английском. Преподаватели находят подход к каждому ребенку."
+      }
+    ],
+    "avatars": {
+      "length": 7,
+      "images": [
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD53KpnOL0jtKAdR4scw9mL75HN6YXyoUO8JbF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5ibtJUL0jtKAdR4scw9mL75HN6YXyoUO8JbF"
+      ],
+      "fallbacks": ["ЕК", "АС", "МИ", "ОП", "НЛ", "ВК", "РС"],
+      "alts": [
+        "Елена Кузнецова",
+        "Алексей Смирнов",
+        "Марина Иванова",
+        "Ольга Петрова",
+        "Наталья Лебедева",
+        "Виктор Козлов",
+        "Роман Сергеев"
+      ]
+    },
+    "platforms": [
+      {
+        "rating": 4.9,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5agJdNbL0jtKAdR4scw9mL75HN6YXyoUO8Jb",
+        "title": "Facebook",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.8,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD9g48c9hQ8blvnW4XY2ugMLfZ05UxcEJsPme7",
+        "title": "Google",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.7,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTebFvqktvWdkOg1qNn3L4op5zuZKVH7s06QX",
+        "title": "Yandex",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.9,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDB9G7265m7iFdU4tY5EAnrxbD8cgPzhRQoHL0",
+        "title": "VK",
+        "linkText": "Смотреть все отзывы"
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Почему выбирают нас",
+    "description": "Мы создаем комфортные условия для изучения английского языка с гарантированными результатами.",
+    "cards": [
+      {
+        "title": "Индивидуальный подход",
+        "description": "Каждый курс адаптируется под ваши цели и уровень подготовки.",
+        "icon": "Zap",
+        "iconColor": "blue-400"
+      },
+      {
+        "title": "Опытные преподаватели",
+        "description": "Наши педагоги сертифицированы и имеют многолетний опыт преподавания.",
+        "icon": "BarChart",
+        "iconColor": "orange-400"
+      },
+      {
+        "title": "Гибкий график",
+        "description": "Занимайтесь в удобное время онлайн или офлайн.",
+        "icon": "HeadphonesIcon",
+        "iconColor": "rose-400"
+      },
+      {
+        "title": "Пробные занятия",
+        "description": "Попробуйте наши курсы бесплатно перед началом обучения.",
+        "icon": "Shield",
+        "iconColor": "green-400"
+      }
+    ]
+  },
+  "about": {
+    "title": "О наших курсах",
+    "description": [
+      "Мы — школа английского языка, которая помогает людям всех возрастов достигать своих языковых целей. Наши курсы подходят для детей, взрослых и корпоративных клиентов.",
+      "С 2015 года мы обучили более 5,000 учеников, помогая им свободно говорить на английском, сдавать экзамены и достигать карьерных высот."
+    ],
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "О нас"
+    },
+    "statistics": [
+      { "title": "5,000+", "description": "Обученных учеников" },
+      { "title": "95%", "description": "Удовлетворенность" },
+      { "title": "10+", "description": "Лет опыта" },
+      { "title": "30+", "description": "Преподавателей" }
+    ],
+    "quiz": {
+      "title": "Узнайте, какой курс вам подходит",
+      "description": "Ответьте на несколько вопросов, чтобы мы могли подобрать оптимальный курс для вас.",
+      "startButtonText": "Начать тест",
+      "nextButtonText": "Далее",
+      "prevButtonText": "Назад",
+      "resultButtonText": "Получить результат",
+      "resetButtonText": "Пройти еще раз",
+      "questions": [
+        {
+          "id": "age_group",
+          "text": "Для кого вы ищете курс?",
+          "options": [
+            { "id": "kids", "text": "Для детей (6-17 лет)" },
+            { "id": "adults", "text": "Для взрослых (18+)" },
+            { "id": "corporate", "text": "Для компании" }
+          ]
+        },
+        {
+          "id": "goal",
+          "text": "Какая ваша цель?",
+          "options": [
+            { "id": "travel", "text": "Путешествия и общение" },
+            { "id": "work", "text": "Работа и карьера" },
+            { "id": "exams", "text": "Подготовка к экзаменам" },
+            { "id": "general", "text": "Общее развитие" }
+          ]
+        },
+        {
+          "id": "level",
+          "text": "Какой у вас уровень английского?",
+          "options": [
+            { "id": "beginner", "text": "Начинающий (A1-A2)" },
+            { "id": "intermediate", "text": "Средний (B1-B2)" },
+            { "id": "advanced", "text": "Продвинутый (C1-C2)" }
+          ]
+        },
+        {
+          "id": "format",
+          "text": "Какой формат предпочитаете?",
+          "options": [
+            { "id": "online", "text": "Онлайн" },
+            { "id": "offline", "text": "Офлайн" },
+            { "id": "both", "text": "Не важно" }
+          ]
+        }
+      ],
+      "results": {
+        "default": {
+          "title": "Спасибо за ваши ответы!",
+          "description": "Мы подберем для вас подходящий курс. Оставьте свои контакты, и мы свяжемся с вами в ближайшее время.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+          "recommendedService": "Индивидуальный курс",
+          "contactButtonText": "Связаться с нами",
+          "contactButtonLink": "/#contacts"
+        },
+        "kids": {
+          "title": "Курс для детей",
+          "description": "Интерактивные занятия для детей с акцентом на игры и развитие речи.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+          "recommendedService": "Курс для детей",
+          "contactButtonText": "Узнать больше",
+          "contactButtonLink": "/#contacts"
+        },
+        "adults": {
+          "title": "Курс для взрослых",
+          "description": "Курсы для взрослых с акцентом на практическое применение языка.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+          "recommendedService": "Курс для взрослых",
+          "contactButtonText": "Узнать больше",
+          "contactButtonLink": "/#contacts"
+        },
+        "corporate": {
+          "title": "Корпоративный курс",
+          "description": "Программы для компаний, чтобы повысить уровень английского сотрудников.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+          "recommendedService": "Корпоративный курс",
+          "contactButtonText": "Узнать больше",
+          "contactButtonLink": "/#contacts"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "title": "Стоимость курсов",
+    "description": "Мы предлагаем доступные тарифы для всех категорий учеников.",
+    "calculator": {
+      "title": "Калькулятор стоимости",
+      "description": "Рассчитайте стоимость курса, выбрав нужные параметры.",
+      "buttonText": "Рассчитать",
+      "resultTitle": "Предварительная стоимость:",
+      "disclaimer": "Окончательная стоимость будет определена после консультации.",
+      "contactUs": "Свяжитесь с нами для точного расчета.",
+      "fields": {
+        "service": {
+          "label": "Курс",
+          "placeholder": "Выберите курс",
+          "options": [
+            {
+              "value": "kids",
+              "label": "Курс для детей",
+              "basePrice": 10000
+            },
+            {
+              "value": "adults",
+              "label": "Курс для взрослых",
+              "basePrice": 15000
+            },
+            {
+              "value": "corporate",
+              "label": "Корпоративный курс",
+              "basePrice": 20000
+            }
+          ]
+        },
+        "duration": {
+          "label": "Длительность",
+          "placeholder": "Выберите длительность",
+          "options": [
+            { "value": "1", "label": "1 месяц", "multiplier": 1 },
+            { "value": "3", "label": "3 месяца", "multiplier": 2.7 },
+            { "value": "6", "label": "6 месяцев", "multiplier": 5 },
+            { "value": "12", "label": "12 месяцев", "multiplier": 9 }
+          ]
+        },
+        "complexity": {
+          "label": "Уровень",
+          "placeholder": "Выберите уровень",
+          "options": [
+            { "value": "beginner", "label": "Начинающий", "multiplier": 0.8 },
+            { "value": "intermediate", "label": "Средний", "multiplier": 1 },
+            { "value": "advanced", "label": "Продвинутый", "multiplier": 1.5 }
+          ]
+        },
+        "urgency": {
+          "label": "Формат",
+          "placeholder": "Выберите формат",
+          "options": [
+            { "value": "online", "label": "Онлайн", "multiplier": 1 },
+            { "value": "offline", "label": "Офлайн", "multiplier": 1.2 },
+            { "value": "hybrid", "label": "Гибридный", "multiplier": 1.1 }
+          ]
+        }
+      }
+    },
+    "cards": [
+      {
+        "title": "Курс для детей",
+        "description": "Интерактивные занятия для детей от 6 лет.",
+        "price": "От 10 000 ₽/месяц",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+        "buttonText": "Записаться",
+        "buttonUrl": "/#contacts"
+      },
+      {
+        "title": "Курс для взрослых",
+        "description": "Курсы для взрослых с акцентом на практическое применение языка.",
+        "price": "От 15 000 ₽/месяц",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "buttonText": "Записаться",
+        "buttonUrl": "/#contacts"
+      },
+      {
+        "title": "Корпоративный курс",
+        "description": "Программы для компаний для повышения уровня английского сотрудников.",
+        "price": "От 20 000 ₽/месяц",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+        "buttonText": "Записаться",
+        "buttonUrl": "/#contacts"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Отзывы учеников и родителей",
+    "description": "Узнайте, что говорят наши ученики и их родители о наших курсах.",
+    "loading": "Загрузка отзывов...",
+    "error": "Ошибка при загрузке отзывов. Пожалуйста, попробуйте позже.",
+    "items": [
+      {
+        "name": "Елена Кузнецова",
+        "jobTitle": "Родитель",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "testimonial": "Мой сын с радостью ходит на занятия. Преподаватели делают уроки увлекательными!"
+      },
+      {
+        "name": "Алексей Смирнов",
+        "jobTitle": "Ученик",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "testimonial": "Подготовился к IELTS за 3 месяца. Преподаватели всегда на связи."
+      },
+      {
+        "name": "Марина Иванова",
+        "jobTitle": "Родитель",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "testimonial": "Дочь стала увереннее говорить на английском. Очень довольны!"
+      },
+      {
+        "name": "Ольга Петрова",
+        "jobTitle": "Ученик",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "testimonial": "Гибкий график и отличные преподаватели. Рекомендую всем!"
+      },
+      {
+        "name": "Наталья Лебедева",
+        "jobTitle": "Корпоративный клиент",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "testimonial": "Наши сотрудники значительно улучшили английский благодаря курсам."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Наши партнеры",
+    "description": "Мы сотрудничаем с ведущими образовательными платформами и организациями.",
+    "items": [
+      {
+        "id": 1,
+        "name": "Cambridge English",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHlzZb6sel4q5fpS9Z3G2xYOFJUaWyAQjuMwn"
+      },
+      {
+        "id": 2,
+        "name": "British Council",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeYb7A08uRAkV4gQjlmxr5EiSUzeqF8BdbMYv"
+      },
+      {
+        "id": 3,
+        "name": "Pearson",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDan7xkAOFka019tyi7IlvN6rSVo3xfwmADE2T"
+      },
+      {
+        "id": 4,
+        "name": "Oxford University Press",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7zEPZCbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw"
+      },
+      {
+        "id": 5,
+        "name": "ETS",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDzJEEavx7TL3KFjhDr21asZIJz6Cw4kg8VoRX"
+      },
+      {
+        "id": 6,
+        "name": "IELTS",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD8w5wjzlNalKbzIqgXsrVyULnSBQP05fiOw7v"
+      },
+      {
+        "id": 7,
+        "name": "TOEFL",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDlW8Ue379KvN78dXLe4HM6DIJfbZpOm0azytE"
+      },
+      {
+        "id": 8,
+        "name": "LinguaLeo",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDX7VXrCMpWevFUaN6xZlmMiIyudBTPfrtwR85"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Фотогалерея и сертификаты",
+    "description": "Фотографии с наших занятий, мероприятий и сертификаты наших преподавателей.",
+    "emptyFilterMessage": "Нет изображений, соответствующих выбранным критериям",
+    "categories": [
+      { "id": "all", "name": "Все" },
+      { "id": "classes", "name": "Занятия" },
+      { "id": "events", "name": "Мероприятия" },
+      { "id": "certificates", "name": "Сертификаты" },
+      { "id": "team", "name": "Команда" }
+    ],
+    "items": [
+      {
+        "id": "1",
+        "title": "Групповое занятие",
+        "description": "Урок английского для детей в нашем центре в Москве.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "category": "classes"
+      },
+      {
+        "id": "2",
+        "title": "Лингвистический фестиваль",
+        "description": "Ежегодное мероприятие для наших учеников.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "category": "events"
+      },
+      {
+        "id": "3",
+        "title": "Команда преподавателей",
+        "description": "Наши педагоги на тренинге по новым методикам.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "category": "team"
+      },
+      {
+        "id": "4",
+        "title": "Сертификат Cambridge",
+        "description": "Документ, подтверждающий квалификацию преподавателя.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "category": "certificates"
+      },
+      {
+        "id": "5",
+        "title": "Класс для офлайн занятий",
+        "description": "Уютное пространство для обучения в Москве.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "category": "classes"
+      },
+      {
+        "id": "6",
+        "title": "Сертификат IELTS",
+        "description": "Подтверждение квалификации преподавателя для подготовки к экзаменам.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "category": "certificates"
+      },
+      {
+        "id": "7",
+        "title": "Летний языковой лагерь",
+        "description": "Мероприятие для детей с погружением в английский язык.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
+        "category": "events"
+      },
+      {
+        "id": "8",
+        "title": "Онлайн урок",
+        "description": "Занятие через Zoom для наших учеников.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTkvegItvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "category": "classes"
+      },
+      {
+        "id": "9",
+        "title": "Сертификат TOEFL",
+        "description": "Документ, подтверждающий квалификацию преподавателя.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDtw82YDHvWNLgyxqAbeQEiS4rRuFKnwMBfzXV",
+        "category": "certificates"
+      }
+    ]
+  },
+  "team": {
+    "title": "Наши преподаватели",
+    "description": "Познакомьтесь с нашей командой сертифицированных педагогов, которые помогут вам достичь ваших целей.",
+    "members": [
+      {
+        "id": 1,
+        "name": "Анна Иванова",
+        "position": "Старший преподаватель",
+        "bio": "Сертифицированный преподаватель с 12-летним опытом. Специалист по подготовке к IELTS.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Мария Петрова",
+        "position": "Преподаватель",
+        "bio": "Эксперт по обучению детей английскому языку через интерактивные методики.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Дмитрий Смирнов",
+        "position": "Преподаватель",
+        "bio": "Специалист по деловому английскому и корпоративному обучению.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Елена Козлова",
+        "position": "Преподаватель",
+        "bio": "Эксперт по подготовке к международным экзаменам TOEFL и Cambridge.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "social": {
+          "linkedin": "#",
+          "instagram": "#"
+        }
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Результаты наших учеников",
+    "description": "Реальные истории успеха наших учеников до и после прохождения курсов.",
+    "labels": {
+      "before": "До",
+      "after": "После"
+    },
+    "items": [
+      {
+        "title": "Александр, 28 лет",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "before": "A1 Beginner",
+        "after": "B2 Upper-Intermediate",
+        "description": "За 8 месяцев освоил английский для работы в международной компании."
+      },
+      {
+        "title": "Мария, 35 лет",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "before": "A2 Elementary",
+        "after": "C1 Advanced",
+        "description": "Подготовилась к переезду за границу и успешно работает за рубежом."
+      },
+      {
+        "title": "Дмитрий, 42 года",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+        "before": "B1 Intermediate",
+        "after": "C1 Advanced",
+        "description": "Улучшил деловой английский и получил повышение."
+      },
+      {
+        "title": "Екатерина, 19 лет",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "before": "A1 Beginner",
+        "after": "B2 Upper-Intermediate",
+        "description": "Поступила в зарубежный университет после подготовки."
+      },
+      {
+        "title": "Сергей, 31 год",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+        "before": "A2 Elementary",
+        "after": "B2 Upper-Intermediate",
+        "description": "Достиг цели за 10 месяцев после неудачных попыток самообучения."
+      },
+      {
+        "title": "Анна, 25 лет",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+        "before": "B1 Intermediate",
+        "after": "C2 Proficiency",
+        "description": "Стала профессиональным переводчиком после курса."
+      }
+    ],
+    "cta": {
+      "text": "Записаться на курс",
+      "url": "/#contacts"
+    }
+  },
+  "steps": {
+    "title": "Как начать обучение",
+    "description": "Мы делаем процесс записи на курсы простым и удобным.",
+    "items": [
+      {
+        "title": "Запишитесь на пробное занятие",
+        "description": [
+          "Оставьте заявку на бесплатное пробное занятие, чтобы познакомиться с преподавателем и форматом обучения.",
+          "Мы свяжемся с вами, чтобы подобрать удобное время."
+        ],
+        "number": 1,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeGPw4K8uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+        "reverse": false
+      },
+      {
+        "title": "Пройдите тестирование",
+        "description": [
+          "Пройдите короткий тест, чтобы определить ваш уровень английского.",
+          "Это поможет нам подобрать подходящий курс."
+        ],
+        "number": 2,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD0ctbjqpGogSTdPjE52zpHbq3mCFiR8wUL9sG",
+        "reverse": true
+      },
+      {
+        "title": "Выберите курс",
+        "description": [
+          "Выберите формат (онлайн или офлайн) и график занятий.",
+          "Мы предложим программу, соответствующую вашим целям."
+        ],
+        "number": 3,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+        "reverse": false
+      },
+      {
+        "title": "Начните обучение",
+        "description": [
+          "Присоединяйтесь к занятиям и достигайте своих целей с нашими преподавателями.",
+          "Мы будем поддерживать вас на каждом этапе."
+        ],
+        "number": 4,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+        "reverse": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Частые вопросы",
+    "description": "Ответы на популярные вопросы о наших курсах и формате обучения.",
+    "questions": [
+      {
+        "question": "Сколько длится пробное занятие?",
+        "answer": "Пробное занятие длится 45 минут и проводится бесплатно."
+      },
+      {
+        "question": "Можно ли заниматься индивидуально?",
+        "answer": "Да, мы предлагаем индивидуальные занятия с персональным графиком."
+      },
+      {
+        "question": "Как проходят онлайн-занятия?",
+        "answer": "Онлайн-занятия проходят через Zoom с использованием интерактивных материалов."
+      },
+      {
+        "question": "Есть ли курсы для детей?",
+        "answer": "Да, у нас есть специальные курсы для детей от 6 лет."
+      },
+      {
+        "question": "Как записаться на курс?",
+        "answer": "Оставьте заявку на сайте, и мы свяжемся с вами для записи."
+      }
+    ],
+    "callToAction": {
+      "text": "Не нашли ответ на свой вопрос? Свяжитесь с нами!",
+      "button": { "text": "Связаться с нами", "url": "/#contacts" }
+    }
+  },
+  "contacts": {
+    "title": "Свяжитесь с нами",
+    "description": "Готовы начать обучение? Запишитесь на пробное занятие или задайте свои вопросы.",
+    "booking": {
+      "title": "Записаться на пробное занятие",
+      "description": "Выберите удобное время для бесплатного пробного урока.",
+      "widgetType": "yclients"
+    },
+    "form": {
+      "title": "Оставьте заявку",
+      "description": "Заполните форму, и мы свяжемся с вами в течение 24 часов.",
+      "fields": {
+        "name": {
+          "label": "Имя",
+          "placeholder": "Ваше имя",
+          "error": "Имя должно содержать минимум 2 символа"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Ваш email",
+          "error": "Пожалуйста, введите корректный email"
+        },
+        "message": {
+          "label": "Сообщение",
+          "placeholder": "Ваше сообщение",
+          "error": "Сообщение должно содержать минимум 10 символов"
+        }
+      },
+      "button": {
+        "default": "Отправить заявку",
+        "loading": "Отправка..."
+      },
+      "success": "Заявка успешно отправлена!",
+      "error": "Произошла ошибка при отправке формы",
+      "formcarryError": "Ошибка сервера при отправке формы",
+      "missingApiKey": "API ключ для отправки формы не настроен"
+    },
+    "beforeAfter": {
+      "title": "Результаты наших учеников",
+      "description": "Реальные истории успеха наших учеников до и после прохождения курсов.",
+      "items": [
+        {
+          "title": "Александр, 28 лет",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+          "before": "A1 Beginner",
+          "after": "B2 Upper-Intermediate",
+          "description": "За 8 месяцев освоил английский для работы в международной компании."
+        },
+        {
+          "title": "Мария, 35 лет",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "before": "A2 Elementary",
+          "after": "C1 Advanced",
+          "description": "Подготовилась к переезду за границу и успешно работает за рубежом."
+        },
+        {
+          "title": "Дмитрий, 42 года",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+          "before": "B1 Intermediate",
+          "after": "C1 Advanced",
+          "description": "Улучшил деловой английский и получил повышение."
+        },
+        {
+          "title": "Екатерина, 19 лет",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "before": "A1 Beginner",
+          "after": "B2 Upper-Intermediate",
+          "description": "Поступила в зарубежный университет после подготовки."
+        },
+        {
+          "title": "Сергей, 31 год",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+          "before": "A2 Elementary",
+          "after": "B2 Upper-Intermediate",
+          "description": "Достиг цели за 10 месяцев после неудачных попыток самообучения."
+        },
+        {
+          "title": "Анна, 25 лет",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+          "before": "B1 Intermediate",
+          "after": "C2 Proficiency",
+          "description": "Стала профессиональным переводчиком после курса."
+        }
+      ],
+      "cta": {
+        "text": "Записаться на курс",
+        "url": "/#contacts"
+      }
+    },
+    "contactInfo": {
+      "title": "Контактная информация",
+      "items": [
+        {
+          "type": "phone",
+          "label": "Телефон"
+        },
+        {
+          "type": "email",
+          "label": "Почта"
+        },
+        {
+          "type": "address",
+          "label": "Адрес"
+        }
+      ]
+    },
+    "info": {
+      "title": "Почему стоит связаться с нами",
+      "items": [
+        "Ответ в течение 24 часов",
+        "Бесплатное пробное занятие",
+        "Индивидуальный подбор курса",
+        "Гибкий график обучения"
+      ]
+    },
+    "mapLocation": {
+      "coordinates": [55.7495, 37.5396],
+      "zoom": 15
+    }
+  },
+  "footer": {
+    "description": "Мы помогаем вам свободно говорить на английском с помощью индивидуальных курсов.",
+    "quickLinks": {
+      "title": "Быстрые ссылки",
+      "items": [
+        { "text": "Главная", "url": "/" },
+        { "text": "О нас", "url": "/#about" },
+        { "text": "Курсы", "url": "/#courses" },
+        { "text": "Отзывы", "url": "/#testimonials" },
+        { "text": "Цены", "url": "/#price" },
+        { "text": "Контакты", "url": "/#contacts" }
+      ]
+    },
+    "services": {
+      "title": "Курсы",
+      "items": [
+        { "text": "Для детей", "url": "/#courses" },
+        { "text": "Для взрослых", "url": "/#courses" },
+        { "text": "Корпоративные", "url": "/#courses" },
+        { "text": "Подготовка к экзаменам", "url": "/#courses" }
+      ]
+    },
+    "contactInfo": {
+      "title": "Контакты"
+    },
+    "newsletter": {
+      "title": "Подписка на новости",
+      "description": "Подпишитесь, чтобы получать информацию о новых курсах и акциях.",
+      "email": {
+        "label": "Email",
+        "placeholder": "Ваш email",
+        "error": "Пожалуйста, введите корректный email"
+      },
+      "button": "Подписаться",
+      "loading": "Отправка...",
+      "success": "Вы успешно подписались!",
+      "error": "Произошла ошибка при отправке формы",
+      "formcarryError": "Ошибка сервера при подписке",
+      "missingApiKey": "API ключ для подписки не настроен"
+    },
+    "copyright": "© 2025 Все права защищены",
+    "legalLinks": [
+      { "text": "Условия использования", "url": "/terms-of-service" },
+      { "text": "Политика конфиденциальности", "url": "/privacy-policy" },
+      {
+        "text": "Политика использования файлов cookie",
+        "url": "/cookie-policy"
+      }
+    ]
+  },
+  "events": {
+    "title": "Мероприятия",
+    "description": "Присоединяйтесь к нашим языковым мероприятиям для практики английского.",
+    "allEventsText": "Все мероприятия",
+    "featuredLabel": "Рекомендуем",
+    "speakersLabel": "Спикеры:",
+    "attendeesLabel": "участников",
+    "freeLabel": "Бесплатно",
+    "registerButtonText": "Зарегистрироваться",
+    "emptyFilterMessage": "Нет событий, соответствующих выбранным критериям",
+    "filters": {
+      "all": "Все мероприятия",
+      "upcoming": "Предстоящие",
+      "past": "Прошедшие",
+      "free": "Бесплатные",
+      "paid": "Платные",
+      "online": "Онлайн",
+      "offline": "Офлайн"
+    },
+    "eventTypes": {
+      "workshop": "Мастер-классы",
+      "webinar": "Вебинары",
+      "meetup": "Разговорные клубы",
+      "camp": "Языковые лагеря",
+      "quiz": "Квизы"
+    },
+    "items": [
+      {
+        "id": "1",
+        "title": "Разговорный клуб",
+        "description": "Практика английского в неформальной обстановке с носителями языка.",
+        "date": "20 августа 2024",
+        "time": "18:00 - 20:00",
+        "location": "Москва, ул. Лесная, 7",
+        "isOnline": false,
+        "type": "meetup",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "speakers": [
+          {
+            "name": "Анна Иванова",
+            "position": "Преподаватель",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW"
+          }
+        ],
+        "attendees": 50,
+        "isFree": true,
+        "slug": "english-speaking-club-2024",
+        "isFeatured": true,
+        "isUpcoming": true
+      },
+      {
+        "id": "2",
+        "title": "Вебинар: Подготовка к IELTS",
+        "description": "Советы и стратегии для успешной сдачи экзамена IELTS.",
+        "date": "25 июля 2024",
+        "time": "14:00 - 16:00",
+        "location": "Онлайн (Zoom)",
+        "isOnline": true,
+        "type": "webinar",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "speakers": [
+          {
+            "name": "Елена Козлова",
+            "position": "Преподаватель",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH"
+          }
+        ],
+        "attendees": 200,
+        "isFree": true,
+        "slug": "ielts-preparation-webinar",
+        "isFeatured": false,
+        "isUpcoming": true
+      },
+      {
+        "id": "3",
+        "title": "Мастер-класс: Английский для путешествий",
+        "description": "Практические фразы и советы для общения за границей.",
+        "date": "10 августа 2024",
+        "time": "11:00 - 13:00",
+        "location": "Москва, ул. Лесная, 7",
+        "isOnline": false,
+        "type": "workshop",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "speakers": [
+          {
+            "name": "Мария Петрова",
+            "position": "Преподаватель",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU"
+          }
+        ],
+        "attendees": 30,
+        "isFree": false,
+        "price": "2 000 ₽",
+        "slug": "travel-english-workshop-2024",
+        "isFeatured": true,
+        "isUpcoming": true
+      },
+      {
+        "id": "4",
+        "title": "Языковой квиз",
+        "description": "Веселая викторина на английском для всех уровней.",
+        "date": "15 июля 2024",
+        "time": "19:00 - 21:00",
+        "location": "Онлайн (Zoom)",
+        "isOnline": true,
+        "type": "quiz",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "speakers": [
+          {
+            "name": "Дмитрий Смирнов",
+            "position": "Преподаватель",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW"
+          }
+        ],
+        "attendees": 100,
+        "isFree": true,
+        "slug": "english-quiz",
+        "isFeatured": false,
+        "isUpcoming": true
+      },
+      {
+        "id": "5",
+        "title": "Летний языковой лагерь",
+        "description": "Погружение в английский язык для детей с играми и мастер-классами.",
+        "date": "1-7 сентября 2024",
+        "time": "Начало в 10:00",
+        "location": "Москва, ул. Лесная, 7",
+        "isOnline": false,
+        "type": "camp",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
+        "speakers": [],
+        "attendees": 50,
+        "isFree": false,
+        "price": "15 000 ₽",
+        "slug": "summer-language-camp",
+        "isFeatured": true,
+        "isUpcoming": true
+      }
+    ],
+    "cta": {
+      "title": "Хотите узнать о всех наших мероприятиях?",
+      "buttonText": "Перейти к календарю",
+      "buttonLink": "/#contacts"
+    },
+    "newsletter": {
+      "title": "Не пропустите новые мероприятия",
+      "description": "Подпишитесь на уведомления о наших событиях."
+    }
+  },
+  "careers": {
+    "title": "Работа в нашей школе",
+    "description": "Присоединяйтесь к нашей команде преподавателей и администраторов.",
+    "vacancies": [
+      {
+        "id": "1",
+        "title": "Преподаватель английского",
+        "department": "Образование",
+        "location": "Москва",
+        "type": "Полная занятость",
+        "salary": "от 80 000 ₽",
+        "description": "Преподавание английского языка для детей и взрослых.",
+        "requirements": [
+          "Сертификат CELTA/TEFL",
+          "Опыт преподавания от 2 лет",
+          "Свободное владение английским",
+          "Навыки работы с группами"
+        ],
+        "featured": true,
+        "slug": ""
+      },
+      {
+        "id": "2",
+        "title": "Администратор курсов",
+        "department": "Администрация",
+        "location": "Москва",
+        "type": "Полная занятость",
+        "salary": "от 60 000 ₽",
+        "description": "Координация работы курсов и общение с клиентами.",
+        "requirements": [
+          "Опыт работы в клиентском сервисе",
+          "Организационные навыки",
+          "Знание английского (B2+)",
+          "Уверенное владение ПК"
+        ],
+        "featured": true,
+        "slug": ""
+      },
+      {
+        "id": "3",
+        "title": "Онлайн-преподаватель",
+        "department": "Образование",
+        "location": "Удаленная работа",
+        "type": "Частичная занятость",
+        "salary": "от 50 000 ₽",
+        "description": "Преподавание английского через Zoom.",
+        "requirements": [
+          "Сертификат CELTA/TEFL",
+          "Опыт преподавания онлайн",
+          "Стабильный интернет",
+          "Свободное владение английским"
+        ],
+        "featured": false,
+        "slug": ""
+      },
+      {
+        "id": "4",
+        "title": "Методист",
+        "department": "Образование",
+        "location": "Москва",
+        "type": "Полная занятость",
+        "salary": "от 100 000 ₽",
+        "description": "Разработка учебных программ и тренингов для преподавателей.",
+        "requirements": [
+          "Опыт работы методистом от 3 лет",
+          "Знание современных методик",
+          "Сертификат CELTA/DELTA",
+          "Навыки анализа"
+        ],
+        "featured": false,
+        "slug": "methodist"
+      },
+      {
+        "id": "5",
+        "title": "Координатор мероприятий",
+        "department": "Администрация",
+        "location": "Москва",
+        "type": "Полная занятость",
+        "salary": "от 70 000 ₽",
+        "description": "Организация языковых мероприятий и клубов.",
+        "requirements": [
+          "Опыт организации мероприятий",
+          "Навыки коммуникации",
+          "Знание английского (B2+)",
+          "Креативность"
+        ],
+        "featured": false,
+        "slug": "event-coordinator"
+      },
+      {
+        "id": "6",
+        "title": "Стажер-преподаватель",
+        "department": "Образование",
+        "location": "Москва",
+        "type": "Стажировка",
+        "salary": "от 30 000 ₽",
+        "description": "Обучение под руководством опытных преподавателей.",
+        "requirements": [
+          "Базовое знание английского (B2+)",
+          "Желание учиться",
+          "Студенты педагогических ВУЗов",
+          "Возможность работать 20 часов в неделю"
+        ],
+        "featured": true,
+        "slug": "intern-teacher"
+      }
+    ],
+    "labels": {
+      "featuredBadge": "Горячая вакансия",
+      "viewMoreButton": "Подробнее",
+      "noMatchingVacanciesTitle": "Не нашли подходящую вакансию?",
+      "noMatchingVacanciesDescription": "Отправьте нам свое резюме, и мы свяжемся с вами при появлении подходящей позиции.",
+      "sendResumeButton": "Отправить резюме"
+    },
+    "contactFormUrl": "/#contacts"
+  },
+  "achievements": {
+    "title": "Наши достижения",
+    "description": "Ключевые этапы развития нашей школы английского языка.",
+    "items": [
+      {
+        "id": 1,
+        "year": "2015",
+        "title": "Основание школы",
+        "description": "Открытие первых курсов английского языка в Москве."
+      },
+      {
+        "id": 2,
+        "year": "2016",
+        "title": "Первые 100 учеников",
+        "description": "Мы обучили первых 100 учеников, включая детей и взрослых."
+      },
+      {
+        "id": 3,
+        "year": "2018",
+        "title": "Онлайн-курсы",
+        "description": "Запуск онлайн-формата обучения через Zoom."
+      },
+      {
+        "id": 4,
+        "year": "2020",
+        "title": "Сертификация",
+        "description": "Все преподаватели получили международные сертификаты."
+      },
+      {
+        "id": 5,
+        "year": "2022",
+        "title": "Расширение",
+        "description": "Открытие нового офиса и запуск корпоративных курсов."
+      },
+      {
+        "id": 6,
+        "year": "2023",
+        "title": "Награда",
+        "description": "Получение награды за инновационные методы обучения."
+      },
+      {
+        "id": 7,
+        "year": "2024",
+        "title": "Сегодня",
+        "description": "Обучаем более 5,000 учеников по всему миру."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Сравнение курсов",
+    "description": "Выберите подходящий курс для ваших целей.",
+    "labels": {
+      "showDetails": "Показать детали",
+      "popularChoice": "Популярно"
+    },
+    "plans": [
+      {
+        "id": "kids",
+        "title": "Для детей",
+        "price": "10 000 ₽",
+        "period": "мес",
+        "description": "Интерактивные занятия для детей от 6 лет.",
+        "buttonText": "Выбрать",
+        "buttonUrl": "/#contacts",
+        "popular": false
+      },
+      {
+        "id": "adults",
+        "title": "Для взрослых",
+        "price": "15 000 ₽",
+        "period": "мес",
+        "description": "Курсы для взрослых с акцентом на практику.",
+        "buttonText": "Выбрать",
+        "buttonUrl": "/#contacts",
+        "popular": true
+      },
+      {
+        "id": "corporate",
+        "title": "Корпоративный",
+        "price": "20 000 ₽",
+        "period": "мес",
+        "description": "Программы для компаний и сотрудников.",
+        "buttonText": "Выбрать",
+        "buttonUrl": "/#contacts",
+        "popular": false
+      }
+    ],
+    "features": [
+      {
+        "id": "group_size",
+        "name": "Размер группы",
+        "values": {
+          "kids": "До 8",
+          "adults": "До 10",
+          "corporate": "Неограниченно"
+        }
+      },
+      {
+        "id": "duration",
+        "name": "Длительность занятия",
+        "values": {
+          "kids": "45 минут",
+          "adults": "60 минут",
+          "corporate": "90 минут"
+        }
+      },
+      {
+        "id": "support",
+        "name": "Поддержка",
+        "values": {
+          "kids": "Email",
+          "adults": "Email & Телефон",
+          "corporate": "Персональный менеджер"
+        }
+      },
+      {
+        "id": "materials",
+        "name": "Учебные материалы",
+        "values": {
+          "kids": true,
+          "adults": true,
+          "corporate": true
+        }
+      },
+      {
+        "id": "certificate",
+        "name": "Сертификат",
+        "values": {
+          "kids": true,
+          "adults": true,
+          "corporate": true
+        }
+      },
+      {
+        "id": "exams",
+        "name": "Подготовка к экзаменам",
+        "values": {
+          "kids": false,
+          "adults": true,
+          "corporate": true
+        }
+      },
+      {
+        "id": "online",
+        "name": "Онлайн-формат",
+        "values": {
+          "kids": true,
+          "adults": true,
+          "corporate": true
+        }
+      },
+      {
+        "id": "offline",
+        "name": "Офлайн-формат",
+        "values": {
+          "kids": true,
+          "adults": true,
+          "corporate": true
+        }
+      },
+      {
+        "id": "schedule",
+        "name": "Гибкий график",
+        "values": {
+          "kids": true,
+          "adults": true,
+          "corporate": true
+        }
+      }
+    ]
+  },
+  "video": {
+    "title": "Как наш продукт меняет бизнес",
+    "description": "Посмотрите короткое видео о том, как наш продукт помогает компаниям автоматизировать процессы и увеличивать прибыль.",
+    "thumbnail": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDlvJHZPG79KvN78dXLe4HM6DIJfbZpOm0azyt",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  }
+}
