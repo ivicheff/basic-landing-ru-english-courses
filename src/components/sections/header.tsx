@@ -29,7 +29,7 @@ const Header = () => {
         !isVisible && "-translate-y-full",
       )}
     >
-      <div className="mx-auto ml-4 flex max-w-[102rem] items-center justify-between px-0 py-0 md:ml-0 lg:px-8 lg:py-5">
+      <div className="ml-4 flex max-w-[102rem] items-center justify-between px-0 py-0 md:ml-0 lg:mx-auto lg:px-8 lg:py-5">
         <div className="">
           <Logo />
         </div>
@@ -41,7 +41,7 @@ const Header = () => {
             {contentData.links.email.text}
           </Link>
         </div>
-        <div className="hidden items-center gap-8 xl:flex 2xl:flex-1">
+        <div className="hidden items-center justify-between xl:flex 2xl:flex-1">
           <nav className="flex items-center gap-9 text-nowrap">
             {contentData.header.navigation?.map((item) => (
               <CustomLink
